@@ -35,7 +35,7 @@
     // Maneja para caso de error
     function onError() {
         message.classList.add('error');
-        message.textContent = `Failed to get your location!`;
+        message.textContent = `No se encontró tu ubicación!`;
     }
 })();
 
