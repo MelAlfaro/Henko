@@ -51,8 +51,8 @@ d.addEventListener("click", (e) => {
         Stripe(STRIPE_KEYS.public).redirectToCheckout({
             lineItems: [{ price: precio, quantity: 1 }],
             mode: "payment",
-            successUrl: "http://127.0.0.1:5501/stripe-success.html", // cambiar URL cuando se publique la página
-            cancelUrl: "http://127.0.0.1:5501/stripe-cancel.html",   // cambiar URL cuando se publique la página
+            successUrl: "https://melalfaro.github.io/henko/stripe-success.html", // cambiar URL cuando se publique la página
+            cancelUrl: "https://melalfaro.github.io/henko/stripe-cancel.html",   // cambiar URL cuando se publique la página
         })
         .then(respuesta => {
             if (respuesta.error) {
