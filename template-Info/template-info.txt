@@ -1,0 +1,7 @@
+Hola Profesor! 
+Abajo encontrará los detalles sobre el template utilizado para la creación de esta página.
+
+Template Name: Mentor
+Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/

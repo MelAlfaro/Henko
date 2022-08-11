@@ -1,0 +1,40 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Anillos",
+            "imagen": "assets/img/portfolio/portfolio-1.jpg",
+            "precio": 4995
+        },
+        {
+            "id": 2,
+            "nombre": "Aretes",
+            "imagen": "assets/img/portfolio/portfolio-2.jpg",
+            "precio": 4995
+        },
+        {
+            "id": 3,
+            "nombre": "Collares",
+            "imagen": "assets/img/portfolio/portfolio-3.jpg",
+            "precio": 4995
+        },
+        {
+            "id": 4,
+            "nombre": "Pulseras",
+            "imagen": "assets/img/portfolio/portfolio-4.jpg",
+            "precio": 4995
+        },
+        {
+            "id": 5,
+            "nombre": "Gargantillas",
+            "imagen": "assets/img/portfolio/portfolio-5.jpg",
+            "precio": 4995
+        },
+        {
+            "id": 6,
+            "nombre": "Tobilleras",
+            "imagen": "assets/img/portfolio/portfolio-6.jpg",
+            "precio": 4995
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+.fa-map-marker-alt,
+.fa-dot-circle {
+	color: #d1b8b0;
+	font-size: 2rem;
+}
+
+#googleMap {
+	width: 100%;
+	height: 400px;
+	margin: 10px auto;
+}
+
+#output {
+	text-align: center;
+	font-size: 2em;
+	margin: 20px auto;
+}
+
+#mode {
+	color: black;
+}
+
+.none {
+	display: none;
+}
+
+.alert-info {
+	color: #775d52;
+  border: 1px solid #bb917d;
+  font-size: 1.5rem;
+}

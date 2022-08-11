@@ -1,0 +1,68 @@
+/* variables que se usarán para definir el color del borde dependiendo de la validación del contenido de un campo input */
+.form-contacto {
+	--form-ok-color: #4caf50;
+	--form-error-color: #be1000;
+}
+
+.form-contacto textarea {
+	resize: none;
+}
+
+.form-contacto legend,
+.contacto-form-respuesta {
+	font-size: 1.5rem;
+	font-weight: bold;
+	text-align: center;
+	color: #bb917d;
+}
+
+.form-contacto input,
+.form-contacto textarea,
+.form-contacto select {
+	font-size: 1rem;
+	font-family: sans-serif;
+	color: #775d52;
+}
+
+/* Define el color para todos los placeholder en el formulario */
+.form-contacto *::placeholder {
+	color: #775d52;
+}
+
+/* valida que todos los elementos con el atributo required agregado y con contenido válido (es decir, que cumpla con lo indicado en el atributo pattern), tengan las propiedades que se indican acá */
+.form-contacto [required]:valid {
+	border: thin solid var(--form-ok-color);
+}
+
+.form-contacto [required]:invalid {
+	border: thin solid var(--form-error-color);
+}
+
+.error-form-contacto {
+	margin-top: -1rem;
+	font-size: 80%;
+	background-color: var(--form-error-color);
+	color: #fff;
+	transition: all 800ms ease;
+}
+
+.error-form-contacto.esta-activo {
+	display: block;
+	animation: show-message 1s 1 normal 0s ease-out both;
+}
+
+.none {
+	display: none;
+}
+
+@keyframes show-message {
+	0% {
+		visibility: hidden;
+		opacity: 0;
+	}
+
+	100% {
+		visibility: visible;
+		opacity: 1;
+	}
+}
