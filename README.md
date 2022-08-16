@@ -13,7 +13,7 @@ Abajo encontrará los créditos sobre el template utilizado para la creación de
 - Se utiliza del template: Animaciones (mayoría de páginas), Estilos para barra de navegación y footer (todas las páginas),  imagen tipo Hero, estilos para tarjetas (en Home), estilos de elementos menores (botones, tipos de fuente, iconos, layout para los mismos) (mayoría de páginas), slider (en Sobre Henko), card de eventos (en Acerca de), algunos estilos de los inputs para contacnto (en Contacto, así como los ya mencionados estilos para botones e íconos).
 
 -------------------------------------------------------------------------------------------
-En la siguiente sección, encontrará donde se aplica cada uno de los requerimientos
+En la siguiente sección, se indica donde se implementan los distintos requerimientos.
 
 - Contenido base del sitio
     - [x]  Página de Home, con uso de navegación y menús. > Página: HOME
