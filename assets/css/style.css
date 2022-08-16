@@ -1176,7 +1176,7 @@ input[type=range]::-webkit-slider-runnable-track  {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background-image: url('/assets/img/general/logo.png');
+  background-image: url('../img/general/logo.png');
   background-repeat: no-repeat;
   background-position: 97% 85%;
   background-size: 100px 80px;
