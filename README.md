@@ -5,10 +5,10 @@ Página creada para proyecto final de Diseño de Aplicaciones Web
 Hola Profesor! 
 Abajo encontrará los créditos sobre el template utilizado para la creación de esta página.
 
-Template Name: Mentor
-Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+- Template Name: Mentor
+- Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+- Author: BootstrapMade.com
+- License: https://bootstrapmade.com/license/
 
 - Se utiliza del template: Animaciones (mayoría de páginas), Estilos para barra de navegación y footer (todas las páginas),  imagen tipo Hero, estilos para tarjetas (en Home), estilos de elementos menores (botones, tipos de fuente, iconos, layout para los mismos) (mayoría de páginas), slider (en Sobre Henko), card de eventos (en Acerca de), algunos estilos de los inputs para contacnto (en Contacto, así como los ya mencionados estilos para botones e íconos).
 
