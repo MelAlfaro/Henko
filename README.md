@@ -84,7 +84,7 @@ Las páginas de contenido son todas aquellas páginas que son necesarias para mo
     - Página CONTACTO incluye formulario, se incluye un API para manejo del envío y cálculo para validaciones de datos en los distintos inputs.
         - [x]  debe implementar al menos una página con formularios que realice cálculos complejos con JavaScript.
 
-    - Página VISITANOS consume servicio REST de clima
+    - Página VISITANOS consume servicio REST de clima, se utiliza API de Stripe para pagos en linea (en version de prueba) en página COMPRA.
         - [x]  Página que consuma servicios REST.
 
     - Se utiliza JQuery en página COTIZA
