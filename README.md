@@ -1,5 +1,5 @@
 # Henko
-Página creada para proyecto final de Diseño de Aplicaciones Web
+Página creada para proyecto final de Diseño de Aplicaciones Web, archivo de tipo markup, se puede leer mejor en: https://github.com/MelAlfaro/henko/blob/main/README.md
 
 -------------------------------------------------------------------------------------------
 Hola Profesor! 
