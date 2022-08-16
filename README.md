@@ -55,45 +55,45 @@ Se toma en consideración todos los puntos abajo, fueron aplicados a lo largo de
         - [x]  Página o páginas del tema principal de interés que puede contener menú emergente
         - [x]  Demás elementos o páginas que se requiera direccionar
 
-    Se agregan distintas secciones dentro del home, que incluyen los aspectos solicitados abajo.
-    - Contenido Principal: El contenido principal del home deberá tener como mínimo:
-        - [x]  Paneles que muestren información de noticias o temas relevantes
-        - [x]  La información más importante a destacar del tema del Sitio
-        - [x]  Imágenes que apoyen el contenido
-        - [x]  La división del contenido en Div, Article o Aside queda a criterio del diseñador.
+    - Se agregan distintas secciones dentro del home, que incluyen los aspectos solicitados abajo.
+        - Contenido Principal: El contenido principal del home deberá tener como mínimo:
+            - [x]  Paneles que muestren información de noticias o temas relevantes
+            - [x]  La información más importante a destacar del tema del Sitio
+            - [x]  Imágenes que apoyen el contenido
+            - [x]  La división del contenido en Div, Article o Aside queda a criterio del diseñador.
     
-    Se siguen las indicaciones abajo para la creación del footer, se agrega un degradado para el background junto con un logo como fondo de pantalla, así como links al contenido más relevante.
-    - Footer:
-        - [x]  El diseño del footer es abierto, pero debe considerar el uso de imágenes de fondo, imágenes como logos, menú de acceso rápido al contenido más relevante e información sobre los derechos de autor.
+    - Se siguen las indicaciones abajo para la creación del footer, se agrega un degradado para el background junto con un logo como fondo de pantalla, así como links al contenido más relevante.
+        - Footer:
+            - [x]  El diseño del footer es abierto, pero debe considerar el uso de imágenes de fondo, imágenes como logos, menú de acceso rápido al contenido más relevante e información sobre los derechos de autor.
     
-    Se incluye carousel en home.
-    - Carrusel:
-        - [x]  Debe incorporar en su sitio elementos responsivos, en el sitio principal debe incluir un “Bootstrap Carousel” de forma que se muestre el contenido de diferente información e imágenes en la pantalla principal y que esta funcione de manera responsiva.
+    - Se incluye carousel en home.
+        - Carrusel:
+            - [x]  Debe incorporar en su sitio elementos responsivos, en el sitio principal debe incluir un “Bootstrap Carousel” de forma que se muestre el contenido de diferente información e imágenes en la pantalla principal y que esta funcione de manera responsiva.
 
 ## Páginas de Contenido
 Las páginas de contenido son todas aquellas páginas que son necesarias para mostrar información que se desea publicar en el Sitio o bien con las cuales se desea interactuar con el usuario y deben ser invocadas desde la barra de navegación del Home o en links en otras páginas de contenido. Las páginas de contenido deben considerar lo siguiente:
-    * se utiliza una hoja de estilos para elementos utilizados en todo el sitio y hojas separadas para estilos aplicados a una sola página.
-    - [x]  Debe utilizar hojas de estilo aplicables según sea cada
+    - se utiliza una hoja de estilos para elementos utilizados en todo el sitio y hojas separadas para estilos aplicados a una sola página.
+        - [x]  Debe utilizar hojas de estilo aplicables según sea cada
 
-    * Se mantiene la misma estructura para barra de navegacion y footer para todas las paginas donde estan presentes ambos o solo uno de los dos, se mantiene redireccion en todas las paginas.
-    - [x]  En la medida de lo posible deben conservar la estructura básica del maquetado del Home y analizar la posibilidad de mantener la estructura de header, navegación y footer del home, esta medida no es restrictiva por lo que acorde con el diseño podría tener una estructura de maquetado distinta, en cuyo caso debe asegurarse que las páginas puedan redireccionar al página de home y mantengan una concordancia en colores y diseño base, de forma tal que siempre que el usuario navegue tenga la sensación de estar en el mismo sitio.
+    - Se mantiene la misma estructura para barra de navegacion y footer para todas las paginas donde estan presentes ambos o solo uno de los dos, se mantiene redireccion en todas las paginas.
+        - [x]  En la medida de lo posible deben conservar la estructura básica del maquetado del Home y analizar la posibilidad de mantener la estructura de header, navegación y footer del home, esta medida no es restrictiva por lo que acorde con el diseño podría tener una estructura de maquetado distinta, en cuyo caso debe asegurarse que las páginas puedan redireccionar al página de home y mantengan una concordancia en colores y diseño base, de forma tal que siempre que el usuario navegue tenga la sensación de estar en el mismo sitio.
     
-    * Se realizan calculos y validaciones en 5 paginas de js.
-    - [x]  Debe aplicar en al menos 3 páginas de contenido con validaciones simples y complejas con JavaScript.
+    - Se realizan calculos y validaciones en 5 paginas de js.
+        - [x]  Debe aplicar en al menos 3 páginas de contenido con validaciones simples y complejas con JavaScript.
 
-    * Página CONTACTO incluye formulario, se incluye un API para manejo del envío y cálculo para validaciones de datos en los distintos inputs.
-    - [x]  debe implementar al menos una página con formularios que realice cálculos complejos con JavaScript.
+    - Página CONTACTO incluye formulario, se incluye un API para manejo del envío y cálculo para validaciones de datos en los distintos inputs.
+        - [x]  debe implementar al menos una página con formularios que realice cálculos complejos con JavaScript.
 
-    * Página VISITANOS consume servicio REST de clima
-    - [x]  Página que consuma servicios REST.
+    - Página VISITANOS consume servicio REST de clima
+        - [x]  Página que consuma servicios REST.
 
-    * Se utiliza JQuery en página COTIZA
-    - [x]  Debe aplicar JQuery en al menos 1 página, para realizar acciones o validaciones.
+    - Se utiliza JQuery en página COTIZA
+        - [x]  Debe aplicar JQuery en al menos 1 página, para realizar acciones o validaciones.
 
-    * Se crea una tabla dinámica con estilos en página COTIZA
-    - [x]  Debe utilizar en al menos una página tablas formateadas con estilos.
+    - Se crea una tabla dinámica con estilos en página COTIZA
+        - [x]  Debe utilizar en al menos una página tablas formateadas con estilos.
 
-    * Se incluyen todas las páginas mencionadas, así como los distintos elementos solicitados para el formulario, así como el cálculo de edad en contacto.js, envío de datos via correo, así como la posibilidad en la pagina contacto contacto.html en linea 91, de agregar una direccion de correo para que se haga un cc del mismo. Se implementa API de geolocalizacion en página visítanos, que además muestra distancia y duración en vehículo. En la página multimedia, se agrega audio y video, con estilos personalizados para mantener el diseño de la página, así como página de autor, que incluye la información solicitada.
+    - Se incluyen todas las páginas mencionadas, así como los distintos elementos solicitados para el formulario, así como el cálculo de edad en contacto.js, envío de datos via correo, así como la posibilidad en la pagina contacto contacto.html en linea 91, de agregar una direccion de correo para que se haga un cc del mismo. Se implementa API de geolocalizacion en página visítanos, que además muestra distancia y duración en vehículo. En la página multimedia, se agrega audio y video, con estilos personalizados para mantener el diseño de la página, así como página de autor, que incluye la información solicitada.
     - Debe considerar como mínimo las siguientes páginas de contenido:
         - [x]  Página de historia del sitio o tema a representar (Sobre Henko)
         - [x]  Página con datos generales del servicio o enfoque del tema (Sobre Henko)
