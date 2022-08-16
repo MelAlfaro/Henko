@@ -49,11 +49,11 @@ Se toma en consideración todos los puntos abajo, fueron aplicados a lo largo de
    - Navegación:
     Deberá contener una barra de menú de navegación que permita al usuario navegar a todas las páginas que componen el sitio. Esta barra de navegación deberá contener un estilo interactivo con efectos cuando se navega sobre el menú similar a los vistos en clase.
     La navegación básica deberá contener:
-    - [x]  Direccionamiento al Home
-    - [x]  Página de Información de Contacto
-    - [x]  Página de Acerca del sitio
-    - [x]  Página o páginas del tema principal de interés que puede contener menú emergente
-    - [x]  Demás elementos o páginas que se requiera direccionar
+        - [x]  Direccionamiento al Home
+        - [x]  Página de Información de Contacto
+        - [x]  Página de Acerca del sitio
+        - [x]  Página o páginas del tema principal de interés que puede contener menú emergente
+        - [x]  Demás elementos o páginas que se requiera direccionar
 
     Se agregan distintas secciones dentro del home, que incluyen los aspectos solicitados abajo.
     - Contenido Principal: El contenido principal del home deberá tener como mínimo:
