@@ -28,7 +28,7 @@ En la siguiente sección, encontrará donde se aplica cada uno de los requerimie
 - Deberá implementar menús para navegación desde el home. > Página: BARRA DE NAVEGACIÓN, así como los links incluidos en la mayoría de elementos.
 - Deberá de tener los vínculos de ida y vuelta, es decir, cada página me llevará a la siguiente por medio de un vínculo y viceversa. > Página: implementado en barra de navegación para todas las páginas.
 
-* Se toma en consideración todos los puntos abajo, fueron aplicados a lo largo de todas las páginas.
+Se toma en consideración todos los puntos abajo, fueron aplicados a lo largo de todas las páginas.
 - Diseño General
     - [x]  El diseño debe ser atractivo para el usuario y de fácil navegación.
     - [x]  Debe utilizar una línea de colores entre las imágenes, textos y fondos que sigan un patrón de concordancia.
